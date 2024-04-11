@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mv3N1di0IrWQfpF+OpQ9C5qU+EXN3ti3NXyFOkQASFg=",
+  "Source": "MiWebAPI",
+  "BasePath": "_content/MiWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

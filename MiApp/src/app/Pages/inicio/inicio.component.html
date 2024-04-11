@@ -1,0 +1,54 @@
+<mat-card style="width: 70%; margin: 50px auto">
+
+    <mat-card-header>
+        <mat-card-title><p>lista empleados</p></mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+        <button mat-flat-button color="primary" (click)="nuevo()">Nuevo Empleado</button>
+
+        <table mat-table [dataSource]="listaEmpleados" class="mat-elevation-z2" style="margin-top:20px">
+
+            <!--- Note that these columns can be defined in any order.
+                  The actual rendered columns are set as a property on the row definition" -->
+          
+            <!-- Position Column -->
+            <ng-container matColumnDef="nombreCompleto">
+              <th mat-header-cell *matHeaderCellDef> Nombre Completo</th>
+              <td mat-cell *matCellDef="let element"> {{element.nombreCompleto}} </td>
+            </ng-container>
+          
+            <!-- Name Column -->
+            <ng-container matColumnDef="correo">
+              <th mat-header-cell *matHeaderCellDef> Correo </th>
+              <td mat-cell *matCellDef="let element"> {{element.correo}} </td>
+            </ng-container>
+          
+            <!-- Weight Column -->
+            <ng-container matColumnDef="sueldo">
+              <th mat-header-cell *matHeaderCellDef> Sueldo </th>
+              <td mat-cell *matCellDef="let element"> {{element.sueldo}} </td>
+            </ng-container>
+          
+            <!-- Symbol Column -->
+            <ng-container matColumnDef="fechaContrato">
+              <th mat-header-cell *matHeaderCellDef> Fecha Contrato </th>
+              <td mat-cell *matCellDef="let element"> {{element.fechaContrato}} </td>
+            </ng-container>
+
+            <ng-container matColumnDef="accion">
+                <th mat-header-cell *matHeaderCellDef> </th>
+                <td mat-cell *matCellDef="let element">
+                    <button mat-icon-button color="primary" (click)="editar(element)">
+                        <mat-icon>edit</mat-icon>
+                      </button>
+                      <button mat-icon-button color="warn" (click)="eliminar(element)">
+                        <mat-icon>delete</mat-icon>
+                      </button>
+                </td>
+              </ng-container>
+          
+            <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+            <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+          </table>
+    </mat-card-content>
+  </mat-card>

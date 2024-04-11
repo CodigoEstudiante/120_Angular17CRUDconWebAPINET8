@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WorkSpaceAD\\YOUTUBE\\120 ANGULAR 17 CRUD WEB API\\MiWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3A25F5-1168-4F9F-B7EB-778DAB0AF1CD}|MiWebAPI\\MiWebAPI.csproj|e:\\workspacead\\youtube\\120 angular 17 crud web api\\miwebapi\\miwebapi\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD3A25F5-1168-4F9F-B7EB-778DAB0AF1CD}|MiWebAPI\\MiWebAPI.csproj|solutionrelative:miwebapi\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3A25F5-1168-4F9F-B7EB-778DAB0AF1CD}|MiWebAPI\\MiWebAPI.csproj|e:\\workspacead\\youtube\\120 angular 17 crud web api\\miwebapi\\miwebapi\\data\\empleadodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD3A25F5-1168-4F9F-B7EB-778DAB0AF1CD}|MiWebAPI\\MiWebAPI.csproj|solutionrelative:miwebapi\\data\\empleadodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3A25F5-1168-4F9F-B7EB-778DAB0AF1CD}|MiWebAPI\\MiWebAPI.csproj|e:\\workspacead\\youtube\\120 angular 17 crud web api\\miwebapi\\miwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD3A25F5-1168-4F9F-B7EB-778DAB0AF1CD}|MiWebAPI\\MiWebAPI.csproj|solutionrelative:miwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3A25F5-1168-4F9F-B7EB-778DAB0AF1CD}|MiWebAPI\\MiWebAPI.csproj|e:\\workspacead\\youtube\\120 angular 17 crud web api\\miwebapi\\miwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD3A25F5-1168-4F9F-B7EB-778DAB0AF1CD}|MiWebAPI\\MiWebAPI.csproj|solutionrelative:miwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "E:\\WorkSpaceAD\\YOUTUBE\\120 ANGULAR 17 CRUD WEB API\\MiWebAPI\\MiWebAPI\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "MiWebAPI\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "E:\\WorkSpaceAD\\YOUTUBE\\120 ANGULAR 17 CRUD WEB API\\MiWebAPI\\MiWebAPI\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "MiWebAPI\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAowDIAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:13:06.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\WorkSpaceAD\\YOUTUBE\\120 ANGULAR 17 CRUD WEB API\\MiWebAPI\\MiWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MiWebAPI\\Program.cs",
+              "ToolTip": "E:\\WorkSpaceAD\\YOUTUBE\\120 ANGULAR 17 CRUD WEB API\\MiWebAPI\\MiWebAPI\\Program.cs",
+              "RelativeToolTip": "MiWebAPI\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:11:09.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoData.cs",
+              "DocumentMoniker": "E:\\WorkSpaceAD\\YOUTUBE\\120 ANGULAR 17 CRUD WEB API\\MiWebAPI\\MiWebAPI\\Data\\EmpleadoData.cs",
+              "RelativeDocumentMoniker": "MiWebAPI\\Data\\EmpleadoData.cs",
+              "ToolTip": "E:\\WorkSpaceAD\\YOUTUBE\\120 ANGULAR 17 CRUD WEB API\\MiWebAPI\\MiWebAPI\\Data\\EmpleadoData.cs",
+              "RelativeToolTip": "MiWebAPI\\Data\\EmpleadoData.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAwwGMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:55:24.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\WorkSpaceAD\\YOUTUBE\\120 ANGULAR 17 CRUD WEB API\\MiWebAPI\\MiWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MiWebAPI\\appsettings.json",
+              "ToolTip": "E:\\WorkSpaceAD\\YOUTUBE\\120 ANGULAR 17 CRUD WEB API\\MiWebAPI\\MiWebAPI\\appsettings.json",
+              "RelativeToolTip": "MiWebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-10T19:52:48.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
